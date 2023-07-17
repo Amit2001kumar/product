@@ -1,0 +1,16 @@
+[
+  {
+    "productId": "1",
+    "productName": "Apple",
+    "productDescription": "good quiclity",
+    "productImage": "productImage-1689611644849-664699074.png",
+    "isActive": "true"
+  },
+  {
+    "productId": "2",
+    "productName": "banana",
+    "productDescription": "good quiclity",
+    "productImage": "productImage-1689611971182-425485066.png",
+    "isActive": "true"
+  }
+]
